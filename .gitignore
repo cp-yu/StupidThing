@@ -1,0 +1,6 @@
+*
+!*.*
+!*/
+test.cpp
+*.exe
+.vscode
